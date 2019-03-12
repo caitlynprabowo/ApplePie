@@ -270,7 +270,6 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="Tree0" destination="8Zi-aI-xQr" id="XNs-Hd-bVG"/>
                         <outlet property="correctWordLabel" destination="45D-cQ-JoL" id="jex-kN-xu4"/>
                         <outlet property="scoreLabel" destination="TAc-sN-qRy" id="PwM-2f-MTB"/>
                         <outlet property="treeImageView" destination="8Zi-aI-xQr" id="zqD-ki-k4z"/>
